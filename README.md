@@ -1,4 +1,3 @@
-# copilot-studio-meu-primeiro-copilot
 
 #  Meu Primeiro Copiloto com Microsoft Copilot Studio
 
